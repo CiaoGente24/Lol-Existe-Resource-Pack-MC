@@ -4,17 +4,19 @@
 
 ## LOL EXISTE OPTIFINE 1.18
 
-### [VERSIONE 1.1](https://github.com/CiaoGente24/Lol-Existe-Resource-Pack-MC/raw/main/LOL%20EXISTE%20%5BOptifine%201.18%5D%20v1.1.zip)
-### [VERSIONE 1.0](https://github.com/CiaoGente24/Lol-Existe-Resource-Pack-MC/raw/main/LOL%20EXISTE%20%5BOptifine%201.18%5D%20v1.0.zip)
+### [ULTIMA VERSIONE (1.1)](https://github.com/CiaoGente24/Lol-Existe-Resource-Pack-MC/raw/main/LOL%20EXISTE%20%5BOptifine%201.18%5D%20v1.1.zip)
+Ultimo aggiornamento: sostituzione disco musicale "13" con "Paolini's Theme" di Fabio Poggiali Berlinghieri, in arte Lolloso.
+
+## LOL EXISTE OPTIFINE 1.16
+
+### [ULTIMA VERSIONE (2.3)](https://github.com/CiaoGente24/Lol-Existe-Resource-Pack-MC/raw/main/BONAX%20CG%20RP%202.3.zip)
+Ultima versione disponibile, non contiene gli aggiornamenti dalla 1.1 della versione 1.18 in poi.
+### [ULTIMA VERSIONE LITE (2.1)](https://github.com/CiaoGente24/Lol-Existe-Resource-Pack-MC/raw/main/BONAX%20e%20CG%202.1%20LITE.zip)
+Questa è una versione LITE, più leggera rispetto alla classica, per pc di fascia più bassa.
 
 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+Questa pagina è stata creata da Samuele Franco, in arte Ciao Gente, gestore tecnico della Lol Existe Resource Pack, appartenente, oltre che a lui, ai contributori artistici Massimo Bonassisa, in arte Max Bonax (co-creatore), Fabio Poggiali Berlinghieri, in arte Lolloso (doppiatore e produttore musicale), Parco Maolini (voce).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CiaoGente24/Lol-Existe-Resource-Pack-MC/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
