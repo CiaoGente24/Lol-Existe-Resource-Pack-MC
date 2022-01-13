@@ -4,7 +4,9 @@ https://optifine.net/downloads
 
 ## LOL EXISTE OPTIFINE 1.18
 
-###V1.0 
+### VERSIONE 1.1 : https://downgit.github.io/#/home?url=https://github.com/CiaoGente24/Lol-Existe-Resource-Pack-MC/blob/main/LOL%20EXISTE%20%5BOptifine%201.18%5D%20v1.1.zip
+### VERSIONE 1.0 : https://downgit.github.io/#/home?url=https://github.com/CiaoGente24/Lol-Existe-Resource-Pack-MC/blob/main/LOL%20EXISTE%20%5BOptifine%201.18%5D%20v1.0.zip
+
 
 
 
