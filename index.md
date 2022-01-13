@@ -20,8 +20,10 @@ Qua troverai i link per le installazioni sempre aggiornate per la Lol Existe Res
 > Questa è una versione LITE, più leggera rispetto alla classica, per pc di fascia più bassa.
 
 
-*Ci teniamo a specificare che la maggior parte dei dettagli di design sono presi da terze Resource Pack, eccone l'elenco:
-[JoliCraft](https://resourcepack.net/jolicraft-resource-pack/)
+*Ci teniamo a specificare che la maggior parte dei dettagli di design sono presi da terze Resource Pack, eccone l'elenco:*
+
+
+*[JoliCraft](https://resourcepack.net/jolicraft-resource-pack/)
 > Per il design di quasi tutte le armature e armi.*
 
 *[BetterDogs](https://www.curseforge.com/minecraft/texture-packs/better-dogs)
