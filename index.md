@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## LOL EXISTE RESOURCE PACK
 
-You can use the [editor on GitHub](https://github.com/CiaoGente24/Lol-Existe-Resource-Pack-MC/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ecco tutte le versioni della Lol Existe Resource Pack di Minecraft per le versioni OPTIFINE 1.16 e 1.18 (uniche versioni di minecraft per cui la resource pack è disponibile).
 
 ### Markdown
 
