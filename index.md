@@ -1,10 +1,10 @@
-## LOL EXISTE RESOURCE PACK
+# LOL EXISTE RESOURCE PACK
 
 Ecco tutte le versioni della Lol Existe Resource Pack di Minecraft per le versioni OPTIFINE 1.16 e 1.18 (uniche versioni di minecraft per cui la resource pack è disponibile).
 
-### Markdown
+## Versione  OPTIFINE 1.18
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
