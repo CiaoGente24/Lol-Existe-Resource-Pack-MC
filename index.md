@@ -1,5 +1,6 @@
 # LOL EXISTE RESOURCE PACK
-
+Qua troverai i link per le installazioni sempre aggiornate per la Lol Existe Resource Pack, una delle Resoure Pack più acclamate degli ultimi tempi.
+"È fottutamente incredibile" - Sviluppatore Mojang, 2022.
 ## OPTIFINE DOWNLOAD
 
 [OPTIFINE](https://optifine.net/downloads)
@@ -20,6 +21,12 @@ Questa è una versione LITE, più leggera rispetto alla classica, per pc di fasc
 
 
 
-Questa pagina è stata creata da Samuele Franco, in arte Ciao Gente, gestore tecnico della Lol Existe Resource Pack, appartenente, oltre che a lui, ai contributori artistici Massimo Bonassisa, in arte Max Bonax (co-creatore), Fabio Poggiali Berlinghieri, in arte Lolloso (doppiatore e produttore musicale), Parco Maolini (voce).
+*Questa pagina è stata creata da Samuele Franco, in arte Ciao Gente, gestore tecnico della Lol Existe Resource Pack, appartenente, oltre che a lui, ai contributori artistici Massimo Bonassisa, in arte Max Bonax (co-creatore), Fabio Poggiali Berlinghieri, in arte Lolloso (doppiatore e produttore musicale), Parco Maolini (voce).*
+
+*Ci teniamo a specificare che la maggior parte dei dettagli di design sono presi da terze Resource Pack, eccone l'elenco:
+[JoliCraft](https://resourcepack.net/jolicraft-resource-pack/)
+> Per il design di quasi tutte le armature e armi.
+
+
 
 
