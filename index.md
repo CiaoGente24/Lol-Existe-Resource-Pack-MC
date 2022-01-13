@@ -1,6 +1,9 @@
+# LOL EXISTE RESOURCE PACK
+
 ## OPTIFINE DOWNLOAD
 
 [OPTIFINE](https://optifine.net/downloads)
+Per questa Resource Pack è richiesta l'installazione della Mod Optifine.
 
 ## LOL EXISTE OPTIFINE 1.18
 
