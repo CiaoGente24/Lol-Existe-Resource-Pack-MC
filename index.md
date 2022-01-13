@@ -23,26 +23,26 @@ Qua troverai i link per le installazioni sempre aggiornate per la Lol Existe Res
 *Ci teniamo a specificare che la maggior parte dei dettagli di design sono presi da terze Resource Pack, eccone l'elenco:*
 
 
-*[JoliCraft](https://resourcepack.net/jolicraft-resource-pack/)
-> Per il design di quasi tutte le armature e armi.*
+*[JoliCraft](https://resourcepack.net/jolicraft-resource-pack/)*
+> *Per il design di quasi tutte le armature e armi.*
 
-*[BetterDogs](https://www.curseforge.com/minecraft/texture-packs/better-dogs)
-> Per la varietà realistica di cani*
+*[BetterDogs](https://www.curseforge.com/minecraft/texture-packs/better-dogs)*
+> *Per la varietà realistica di cani*
 
-*[Realistic Sky](https://www.planetminecraft.com/texture-pack/realistic-sky-resource-pack-by-fire-eagle/)
-> Per la realisticità del cielo*
+*[Realistic Sky](https://www.planetminecraft.com/texture-pack/realistic-sky-resource-pack-by-fire-eagle/)*
+> *Per la realisticità del cielo*
 
-*[Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true)
-> Per la connessione dinamica tra alcuni blocchi*
-
-
+*[Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true)*
+> *Per la connessione dinamica tra alcuni blocchi*
 
 
-*Questa pagina è stata creata da:
-- *Samuele Franco, in arte Ciao Gente, gestore tecnico della Lol Existe Resource Pack(creatore)
-- *Massimo Bonassisa, in arte Max Bonax (creatore)
-- *Fabio Poggiali Berlinghieri, in arte Lolloso (doppiatore e produttore musicale)
-- *Parco Maolini (voce).
+
+
+*Questa pagina è stata creata da:*
+- *Samuele Franco, in arte Ciao Gente, gestore tecnico della Lol Existe Resource Pack(creatore)*
+- *Massimo Bonassisa, in arte Max Bonax (creatore)*
+- *Fabio Poggiali Berlinghieri, in arte Lolloso (doppiatore e produttore musicale)*
+- *Parco Maolini (voce).*
 
 
 
