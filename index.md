@@ -1,8 +1,10 @@
-# LOL EXISTE RESOURCE PACK
+# OPTIFINE DOWNLOAD
 
-Ecco tutte le versioni della Lol Existe Resource Pack di Minecraft per le versioni OPTIFINE 1.16 e 1.18 (uniche versioni di minecraft per cui la resource pack è disponibile).
+https://optifine.net/downloads
 
-## Versione  OPTIFINE 1.18
+## LOL EXISTE OPTIFINE 1.18
+
+###V1.0 
 
 
 
