@@ -8,8 +8,8 @@ Qua troverai i link per le installazioni sempre aggiornate per la Lol Existe Res
 
 ## **LOL EXISTE OPTIFINE 1.18**
 
-### [ULTIMA VERSIONE (1.1)](https://github.com/CiaoGente24/Lol-Existe-Resource-Pack-MC/raw/main/LOL%20EXISTE%20%5BOptifine%201.18%5D%20v1.1.zip)
-> Ultimo aggiornamento: sostituzione disco musicale "13" con "Paolini's Theme" di Fabio Poggiali Berlinghieri, in arte Lolloso.
+### [ULTIMA VERSIONE (1.2)](https://github.com/CiaoGente24/Lol-Existe-Resource-Pack-MC/raw/main/LOL%20EXISTE%20%5BOptifine%201.18%5D%20v1.2.zip)
+> Ultimo aggiornamento: doppiaggio dei villager da parte di Fabio Poggiali Berlinghieri, in arte Lolloso.
 
 ## **LOL EXISTE OPTIFINE 1.16**
 
