@@ -8,8 +8,8 @@ Qua troverai i link per le installazioni sempre aggiornate per la Lol Existe Res
 
 ## **LOL EXISTE OPTIFINE 1.18**
 
-### [ULTIMA VERSIONE (1.4)](https://github.com/CiaoGente24/Lol-Existe-Resource-Pack-MC/raw/main/LOL%20EXISTE%20%5BOptifine%201.8%5D%20v1.4.zip)
-> Ultimo aggiornamento: LANGUAGE UPDATE: Lingua italiana personalizzata (nomi dei dischi personalizzati modificati con il nome delle canzoni sostituite, modifica di messaggi di gioco, scritte dei menu, nomi di item e blocchi, Nether sostituito con il "David Cavaliere" e altro)
+### [ULTIMA VERSIONE (1.5)](https://github.com/CiaoGente24/Lol-Existe-Resource-Pack-MC/raw/main/LOL%20EXISTE%20%5BOptifine%201.18%5D%20v1.5.zip)
+> Ultimo aggiornamento: FULL MUSIC UPDATE: Sostituzione di tutti i dischi musicali.
 
 ## **LOL EXISTE OPTIFINE 1.16**
 
@@ -44,6 +44,7 @@ Qua troverai i link per le installazioni sempre aggiornate per la Lol Existe Res
 - *Fabio Poggiali Berlinghieri, in arte Lolloso (doppiatore e produttore musicale)*
 - *Parco Maolini (voce).*
 
+I Copyright delle canzoni vanno rispettivamente a: *Capalezza, lilfari, M & S, Caparezza, Musica Per Bambini, Il Canale Lolloso, Domenico Bini*
 
 
 
