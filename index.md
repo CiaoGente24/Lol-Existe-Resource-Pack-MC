@@ -15,7 +15,7 @@ Qua troverai i link per le installazioni sempre aggiornate per la Lol Existe Res
 > I testi splash della title screen sono stati sostuiti.
 > Doppiaggio del Predone (by Bonansens, Merendonimatteo)
 > Doppiaggio della Strega (by Merendonimatteo)
-> Doppiaggio della Tartaruga **Tartarugola** (by Musica Per Bambini ft. Caparezza, audio presi dalla canzone "Tartarugola)
+> Doppiaggio della Tartaruga **Tartarugola** (by Musica Per Bambini ft. Caparezza, audio presi dalla canzone "Tartarugola")
 > Texture Enderman sostituita
 
 ## **LOL EXISTE OPTIFINE 1.16**
