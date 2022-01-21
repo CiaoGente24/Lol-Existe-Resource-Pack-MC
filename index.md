@@ -8,8 +8,15 @@ Qua troverai i link per le installazioni sempre aggiornate per la Lol Existe Res
 
 ## **LOL EXISTE OPTIFINE 1.18**
 
-### [ULTIMA VERSIONE (1.5)](https://github.com/CiaoGente24/Lol-Existe-Resource-Pack-MC/raw/main/LOL%20EXISTE%20%5BOptifine%201.18%5D%20v1.5.zip)
-> Ultimo aggiornamento: FULL MUSIC UPDATE: Sostituzione di tutti i dischi musicali.
+### [ULTIMA VERSIONE (1.6)](https://github.com/CiaoGente24/Lol-Existe-Resource-Pack-MC/raw/main/LOL%20EXISTE%20%5BOptifine%201.18%5D%20v1.6.zip)
+> Correzione di bug:
+>- Canali audio delle tracce di doppiaggio cambiate da stereo a mono, per garantire la direzionalità dell'audio proveniente dalle entità.
+
+> I testi splash della title screen sono stati sostuiti.
+> Doppiaggio del Predone (by Bonansens, Merendonimatteo)
+> Doppiaggio della Strega (by Merendonimatteo)
+> Doppiaggio della Tartaruga **Tartarugola** (by Musica Per Bambini ft. Caparezza, audio presi dalla canzone "Tartarugola)
+> Texture Enderman sostituita
 
 ## **LOL EXISTE OPTIFINE 1.16**
 
